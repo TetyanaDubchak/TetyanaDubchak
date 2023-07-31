@@ -12,10 +12,10 @@
 ### <div align="left">My name is Tetyana, now I study in GoIT Academy for Full-Stack Web Developer  and create sites 👨‍💻</div>  
   
 
-#### 🟡  Already studied HTML5 and CSS3 (SCSS)  
+#### 🟡  Already studied HTML5, CSS3 (SCSS), JS  
   
 
-#### 🟡 Now learn JavaScript  
+#### 🟡 Now learn React
   
 
 #### 🟡 English Pre-Intermediate  
