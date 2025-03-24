@@ -9,12 +9,14 @@
 
 ### 
   
-### <div align="left">My name is Tetyana and I'm Full Stack Developer👨‍💻 Every day I work on improving my skills and learning new things.</div>  
+### <div align="left">My name is Tatiana and I'm Full Stack Developer👨‍💻 Every day I work on improving my skills and learning new things.</div>  
   
 #### 🟡 HTML5 
 #### 🟡 CSS3 (SCSS) 
 #### 🟡 JavaScript
+#### 🟡 TypeScript
 #### 🟡 React
+#### 🟡 Next.js
 #### 🟡 Node.js 
 
 <br/>  
@@ -24,23 +26,18 @@
 
 
 <div align="center">  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"></a>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" style="margin: 20px;"/>
+  <img style="margin: 20px" width="40" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" style="margin: 20px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" style="margin: 20px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js" style="margin: 20px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" style="margin: 20px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" alt="SCSS" style="margin: 20px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="SCSS" style="margin: 20px;"/>
+  <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" width="40"/>
 </div>
-
-
-
-
-
-</td><td valign="top" width="33%">
-
-<div align="center">  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="40" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="40" /></a>  
-</div>
-
-</td></tr></table>  
 
 <br/>  
 
