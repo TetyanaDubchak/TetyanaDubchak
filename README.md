@@ -9,7 +9,7 @@
 
 ### 
   
-### <div align="left">My name is Tatiana and I'm Full Stack Developer👨‍💻 Every day I work on improving my skills and learning new things.</div>  
+### <div align="left">My name is Tatiana and I'm Full Stack Developer👨‍💻 Every day I work on improving my skills and learning new things. You can contact me via email at tatidubchak@ukr.net. </div>  
   
 #### 🟡 HTML5 
 #### 🟡 CSS3 (SCSS) 
