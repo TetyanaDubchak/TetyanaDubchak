@@ -26,8 +26,6 @@
 
 
 <div align="center">  
-<a href="https://www.w3schools.com/css/" target="_blank"></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"></a>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" style="margin: 20px;"/>
   <img style="margin: 20px" width="40" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" style="margin: 20px"/>
@@ -35,7 +33,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js" style="margin: 20px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" style="margin: 20px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" alt="SCSS" style="margin: 20px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="SCSS" style="margin: 20px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" style="margin: 20px;"/>
+
   <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" width="40"/>
 </div>
 
